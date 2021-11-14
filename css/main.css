@@ -1730,7 +1730,7 @@ ul.social-icons{
     line-height: 85px;
 }
 .site-branding img {
-  max-height: 50px;
+  max-height: 85px;
   position: relative;
   z-index: 1;
 }
@@ -2174,7 +2174,7 @@ nav.main-menu .megamenu-content .title{
 /* second-footer */
 
 .second-footer {position:relative; padding: 57px 15px 50px; border-bottom: 1px solid #ffffff0f;}
-.footer-logo img {max-height: 40px;}
+.footer-logo img {max-height: 80px;}
 .footer-logo{margin-bottom: 20px;}
 .second-footer p{
   color: rgba(255,255,255,.7);
