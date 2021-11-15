@@ -1214,6 +1214,30 @@ a.ttm-btn.ttm-btn-color-dark:hover,a.ttm-btn.ttm-btn-color-dark:hover i,
     color: rgba(255,255,255,.85);
 }
 
+/** Custom-bg-color **/
+.ttm-bgcolor-custom, 
+.ttm-bgcolor-custom > .ttm-bg-layer,
+.ttm-bgcolor-custom > .ttm-bg-layer > .ttm-col-wrapper-bg-layer-inner,
+.ttm-icon_element-fill.ttm-icon_element-color-custom,
+.ttm-bgcolor-darkgrey .ttm-btn.ttm-btn-style-fill.ttm-btn-color-skincolor:not(.btn-inline):hover:before,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-custom:not(.btn-inline):hover:before,
+.ttm-btn-style-fill.ttm-btn-color-custom,
+.ttm-icon_element-fill.ttm-icon_element-color-custom,
+.ttm-progress-bar .progress-bar.progress-bar-color-bar_custom,
+.progress-bar-color-bar_custom,.ttm-highlight-fid.style1,
+.ttm-bgcolor-skincolor .section-title .title-header h3:after,
+.ttm-bgcolor-skincolor .featured-icon-box.style9,
+.ttm-bgcolor-skincolor .section-title.title-style-center_text .title-header h3:before,
+.ttm-toggle-title-bgcolor-custom .toggle-title a,
+.ttm-bgcolor-skincolor .slick_slider.slick-arrows-style3 .slick-next:hover,
+.ttm-bgcolor-skincolor .slick_slider.slick-arrows-style3 .slick-prev:hover,
+.widget.widget-nav-menu ul li a,
+.sidebar .widget-area .widget.with-title,
+.widget.widget-download,.ttm-header-style-03 .social-icons li a:hover,
+.widget.widget-nav-menu ul li a,
+.featured-imagebox-team.style1 .media-block .social-icons li a {
+    background-color: #1d75bd;
+}
 
 /** White-bg-color **/
 .ttm-bgcolor-white, 
@@ -1301,7 +1325,8 @@ a.ttm-btn.ttm-btn-color-dark:hover,a.ttm-btn.ttm-btn-color-dark:hover i,
     margin: 0 auto;
     flex-direction: column;
     justify-content: center;
-    background: #fff;
+    background: #1d75bd;
+    color: white;
 }
 .loader-blob {
     width: 49px;
