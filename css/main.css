@@ -1058,7 +1058,41 @@ a.ttm-btn.ttm-btn-color-dark,a.ttm-btn.ttm-btn-color-dark i,
 .ttm-progress-bar.style1 .progress-bar-percent,.ttm-progress-bar.style2 .progress-bar-percent,.ttm-progress-bar .progressbar-title,
 .ttm-header-style-02 .header_search .search_btn i{color: #1b1b1b;}
 
-
+/** Grey-bg-color **/
+.ttm-bgcolor-grey ,
+.ttm-bgcolor-grey > .ttm-bg-layer,
+.ttm-bgcolor-grey > .ttm-bg-layer > .ttm-col-wrapper-bg-layer-inner,
+.ttm-bgcolor-skincolor .tooltip:after, .ttm-bgcolor-skincolor [data-tooltip]:after,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-dark, .tooltip:after, [data-tooltip]:after,
+.ttm-icon_element-fill.ttm-icon_element-color-grey,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-skincolor:not(.btn-inline):hover:after,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-skincolor:not(.btn-inline):hover:before,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-grey:not(.btn-inline):hover:before,
+.ttm-btn.ttm-btn-style-fill.ttm-btn-color-grey:not(.btn-inline):hover:after,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark:not(.btn-inline):hover:before ,
+.ttm-btn.ttm-btn-style-border.ttm-btn-color-dark:not(.btn-inline):hover:after ,
+.ttm-bgcolor-skincolor .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:not(.btn-inline):hover:before, 
+.ttm-bgcolor-skincolor .ttm-btn.ttm-btn-style-fill.ttm-btn-color-white:not(.btn-inline):hover:after,
+.ttm-toggle-title-bgcolor-grey,
+.ttm-header-style-02 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner,
+.ttm-header-style-02 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner:after, 
+.ttm-header-style-02 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner:before,
+.ttm-header-style-03 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner,
+.ttm-header-style-03 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner:after, 
+.ttm-header-style-03 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner:before,
+.testimonials.style2 .testimonial-content:hover::before,
+.toggle.ttm-toggle_style_border.ttm-toggle-title-bgcolor-grey .toggle-title a.active,
+.ttm-progress-bar .progress-bar.progress-bar-color-bar_grey ,
+.ttm-progress-bar .progress-bar-inner .progress-bar.progress-bar-color-bar_grey:before,
+.ttm-box-view-overlay:before, .ttm-box-view-content-inner:before,
+.ttm-box-view-overlay:after, .ttm-box-view-content-inner:after,
+.ttm-team-member-single-content-area .ttm-team-member-content .ttm-progress-bar .progress-bar-inner,
+.ttm-toggle-title-bgcolor-white .toggle-title a.active,
+.ttm-header-style-04 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner,
+.ttm-header-style-04 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner:after, 
+.ttm-header-style-04 .site-header-menu-inner .btn-show-menu-mobile .menubar-box .menubar-inner:before{
+  background-color:#726e6e;
+}
 
 /** DarkGrey-bg-color **/
 .ttm-bgcolor-darkgrey ,
@@ -2199,7 +2233,7 @@ nav.main-menu .megamenu-content .title{
 /* second-footer */
 
 .second-footer {position:relative; padding: 57px 15px 50px; border-bottom: 1px solid #ffffff0f;}
-.footer-logo img {max-height: 80px;}
+.footer-logo img {max-height: 100px;}
 .footer-logo{margin-bottom: 20px;}
 .second-footer p{
   color: rgba(255,255,255,.7);
