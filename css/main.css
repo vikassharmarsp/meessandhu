@@ -133,13 +133,13 @@ select{
     border-radius: 3px;
     vertical-align: middle;
     width: 100%;
-    color: #8093a8;
+    color: #000000;
     padding: 13px 15px 14px;
     border-radius: 3px;
     font-weight: 400;
-    background-color: #fff;
+    background-color: #f7f8f9;
     text-transform: inherit;
-    border: 1px solid #fff;
+    border: 1px solid #1d75bd;
     font-size: 14px;
     outline: none;
     line-height: inherit;
@@ -1722,7 +1722,7 @@ ul.social-icons{
     border-bottom: 1px solid rgba(255,255,255,0.09);
 }
 .top_bar_contact_item {
-    font-size: 15px;
+    font-size: 1.3rem;
     font-weight: 500;
     line-height: 50px;
     padding-left: 15px;
