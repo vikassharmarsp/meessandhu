@@ -1280,7 +1280,7 @@ i.fa-play{ padding-left: 5px; }
 ------------------------*/
 .featured-icon-box { position: relative; margin: 15px 0; }
 .featured-icon-box .ttm-icon{ margin-bottom: 0; }
-.featured-title h3{ font-size:24px; line-height: 34px; margin-bottom: 12px; font-weight: 700; text-transform: capitalize;}
+.featured-title h3{ font-size:18px; line-height: 34px; margin-bottom: 12px; font-weight: 700; text-transform: capitalize;}
 
 .featured-icon-box.icon-align-before-content .featured-icon,
 .featured-icon-box.icon-align-before-content .featured-content,
