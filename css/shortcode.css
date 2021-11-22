@@ -1741,7 +1741,7 @@ i.fa-play{ padding-left: 5px; }
     font-family: 'Rajdhani',sans-serif;
 }
 
-.featured-icon-box.style13 .featured-content{padding: 40px 40px 0;text-align: center;}
+.featured-icon-box.style13 .featured-content{padding: 20px 15px 0;text-align: center;}
 .row > [class*='col-']:not(:last-child) .featured-icon-box.style13 .featured-content:before{
     display: block;
     content: '';
