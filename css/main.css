@@ -243,13 +243,14 @@ body { font-family: "Roboto",sans-serif;
     color: #9d9d9d;
 
 }
-h1, h2, h3, h4, h5, h6 { font-family: 'Rajdhani', sans-serif; margin-bottom: 15px; font-weight: 500; color :#222d35;}
+h1, h2, h3, h4, h5, h6 { font-family: 'Roboto', sans-serif; margin-bottom: 15px; font-weight: 500; color :#222d35;}
 h1 { font-size: 60px; line-height: 72px; }
 h2 { font-size: 50px; line-height: 64px; }
 h3 { font-size: 38px; line-height: 48px; }
 h4 { font-size: 30px; line-height: 40px; }
 h5 { font-size: 24px; line-height: 24px; }
 h6 { font-size: 18px; line-height: 20px; }
+.title-desc h4 { text-decoration: underline; }
 
 .rajdhani{font-family:'Rajdhani', sans-serif;}
 .roboto {font-family:'Roboto', sans-serif;}
@@ -264,6 +265,7 @@ body .site-main {
     background-color: #fff;
     position: relative;
     z-index: 1;
+    margin-top: 3%;
 }
 body .page.sidebar-true .site-main{ 
     padding: 0;
@@ -2111,6 +2113,7 @@ nav.main-menu .megamenu-content .title{
     background-size: auto;
     background-repeat: repeat;
     background-attachment: scroll;
+    color: black;
 }
 .footer .widget .widget-title{margin-bottom: 18px;}
 .footer .widget .widget-title { 
@@ -2339,7 +2342,7 @@ nav.main-menu .megamenu-content .title{
     line-height: 25px;
     font-weight: 400;
 }
-.copyright span{color: rgba(255,255,255,.7)!important;}
+.copyright span{color: #000 !important;}
 .copyright span a{padding-right: 5px;}
 .copyright ul.list-inline{ margin: 0; }
 

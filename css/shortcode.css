@@ -380,6 +380,7 @@
 .section-title{ 
     position: relative;
     margin-bottom: 20px;
+    /* margin-top: 3%; */
 }
 .section-title h3{
    font-family:'Roboto', sans-serif;
@@ -419,6 +420,8 @@
     line-height: 28px;
     color:#666666;
     letter-spacing: 0.1px;
+    text-align: justify;
+    margin-top: 2%;
 }
 .section-title .title-desc p a{font-family: 'Rajdhani', sans-serif;}
 .section-title h4.title{
@@ -1000,7 +1003,7 @@ i.fa-play{ padding-left: 5px; }
 .ttm-list.ttm-bordered-lists.ttm-list-style-icon li i { top: 19px; }
 
 /* style2 */
-.ttm-list.ttm-list-style-icon.style2 .ttm-list-li-content{font-size: 15px;}
+.ttm-list.ttm-list-style-icon.style2 .ttm-list-li-content{font-size: 15px;color: #666666;}
 .ttm-list.ttm-list-style-icon.style2 li {padding-bottom: 13px;}
 .ttm-list.ttm-list-style-icon.style2 li:last-child{padding-bottom: 0px;}
 
