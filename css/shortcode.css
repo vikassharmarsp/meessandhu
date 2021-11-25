@@ -2543,6 +2543,8 @@ div:hover > .ttm-box-view-overlay:before, div:hover > .ttm-box-view-content-inne
     line-height: 26px;
     margin: 0;
     padding: 0;
+    color: black;
+    text-align: justify;
 }
 
 .testimonials.style2 .testimonial-content:before {
