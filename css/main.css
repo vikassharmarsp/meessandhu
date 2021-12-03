@@ -1724,14 +1724,14 @@ ul.social-icons{
     border-bottom: 1px solid rgba(255,255,255,0.09);
 }
 .top_bar_contact_item {
-    font-size: 1.3rem;
+    font-size: 1.2rem;
     font-weight: 500;
     line-height: 50px;
     padding-left: 15px;
     padding-right: 15px;
     position: relative;
     display: inline-block; 
-    font-family: 'Rajdhani', sans-serif; 
+    font-family: 'Roboto', sans-serif; 
     z-index: 2;
 }
 .top_bar_contact_item:nth-child(2) {margin-right: 20px;}
